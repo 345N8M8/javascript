@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #292c34;
+    background-color: #510ca0;
 }
 
 header {
@@ -14,7 +14,7 @@ header {
 }
 
 header > h1 {
-    color: #24272e;
+    color: #aa0505;
     text-align: center;
     font-family: Asap, sans-serif;
 }
@@ -33,7 +33,7 @@ header > h1 {
 }
 
 .badge {
-    background: #e25840;
+    background: #8f7916;
     color:white;
     font-size: 14px;
     padding: 2px 10px;
@@ -79,7 +79,7 @@ header > h1 {
 
 .choice:hover {
     cursor: pointer;
-    background: #24272e;
+    background: #143480;
 }
 
 #action-message {
