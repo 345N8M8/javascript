@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background: white;
+    background: rgb(100, 94, 94);
     padding: 20px;
 }
 
@@ -22,11 +22,11 @@ header > h1 {
 .score-board {
     margin: 20px auto;
     padding: 15px 20px;
-    border: 3px solid white;
+    border: 3px solid rgb(33, 253, 4);
     border-radius: 4px;
     text-align: center;
     width: 200px;
-    color: white;
+    color: rgb(28, 2, 255);
     font-size: 46px;
     font-family: Asap, sans-serif;
     position: relative;
@@ -54,7 +54,7 @@ header > h1 {
 
 .result {
     font-size: 40px;
-    color: white;
+    color: rgb(7, 243, 26);
 }
 
 .result > p {
@@ -84,7 +84,7 @@ header > h1 {
 
 #action-message {
     text-align: center;
-    color: white;
+    color: rgb(204, 100, 100);
     font-family: Asap, sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -93,7 +93,7 @@ header > h1 {
 
 #author {
     text-align: center;
-    color:white;
+    color:rgb(29, 243, 243);
     font-family: Asap, sans-serif;
     bottom: 0;
     width: 100%;
